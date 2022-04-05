@@ -5,8 +5,8 @@
     "prev": 2,
     "next": null
   },
-   "data": [
-      {
+  "data": [
+    {
       "timestamp": "2019-05-22T21:00:52.214709Z",
       "title": "Έκδοση",
       "description": "Δελτίο ταυτότητας",
@@ -126,5 +126,5 @@
       "description": "Δελτίο ταυτότητας",
       "type": "REJECT_SCAN"
     }
-    ]
+  ]
 }
